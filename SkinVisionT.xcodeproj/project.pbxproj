@@ -14,6 +14,19 @@
 		687BACE42923C9C4006F6079 /* SkinVisionTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACE32923C9C4006F6079 /* SkinVisionTTests.swift */; };
 		687BACEE2923C9C4006F6079 /* SkinVisionTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACED2923C9C4006F6079 /* SkinVisionTUITests.swift */; };
 		687BACF02923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACEF2923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift */; };
+		687BAD012923DD34006F6079 /* OptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD002923DD34006F6079 /* OptionsView.swift */; };
+		687BAD032923DD51006F6079 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD022923DD51006F6079 /* ProfileView.swift */; };
+		687BAD052923FC3A006F6079 /* BodyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD042923FC3A006F6079 /* BodyView.swift */; };
+		687BAD072923FC4E006F6079 /* DetectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD062923FC4E006F6079 /* DetectorView.swift */; };
+		687BAD0B29243EC1006F6079 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD0A29243EC1006F6079 /* Functions.swift */; };
+		687BAD0D292517D0006F6079 /* UVView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD0C292517D0006F6079 /* UVView.swift */; };
+		687BAD0F292517E4006F6079 /* ChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD0E292517E4006F6079 /* ChatView.swift */; };
+		687BAD1129252B0F006F6079 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD1029252B0F006F6079 /* ImagePicker.swift */; };
+		687BAD13292547D9006F6079 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD12292547D9006F6079 /* ResultView.swift */; };
+		687BAD172926D756006F6079 /* NevusAnalyzer.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD162926D756006F6079 /* NevusAnalyzer.mlmodel */; };
+		687BAD192927CEFD006F6079 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD182927CEFD006F6079 /* UIImage+Extension.swift */; };
+		68A9CF82292BD7D600915DB2 /* TryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A9CF81292BD7D600915DB2 /* TryView.swift */; };
+		68A9CF84292C48A000915DB2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A9CF83292C48A000915DB2 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +57,19 @@
 		687BACE92923C9C4006F6079 /* SkinVisionTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SkinVisionTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		687BACED2923C9C4006F6079 /* SkinVisionTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkinVisionTUITests.swift; sourceTree = "<group>"; };
 		687BACEF2923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkinVisionTUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		687BAD002923DD34006F6079 /* OptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsView.swift; sourceTree = "<group>"; };
+		687BAD022923DD51006F6079 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		687BAD042923FC3A006F6079 /* BodyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyView.swift; sourceTree = "<group>"; };
+		687BAD062923FC4E006F6079 /* DetectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectorView.swift; sourceTree = "<group>"; };
+		687BAD0A29243EC1006F6079 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
+		687BAD0C292517D0006F6079 /* UVView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UVView.swift; sourceTree = "<group>"; };
+		687BAD0E292517E4006F6079 /* ChatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatView.swift; sourceTree = "<group>"; };
+		687BAD1029252B0F006F6079 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		687BAD12292547D9006F6079 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		687BAD162926D756006F6079 /* NevusAnalyzer.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = NevusAnalyzer.mlmodel; sourceTree = "<group>"; };
+		687BAD182927CEFD006F6079 /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
+		68A9CF81292BD7D600915DB2 /* TryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryView.swift; sourceTree = "<group>"; };
+		68A9CF83292C48A000915DB2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,7 +120,10 @@
 		687BACD12923C9C3006F6079 /* SkinVisionT */ = {
 			isa = PBXGroup;
 			children = (
+				687BACFD2923C9E0006F6079 /* Views */,
+				687BACFC2923C9D2006F6079 /* Models */,
 				687BACD22923C9C3006F6079 /* SkinVisionTApp.swift */,
+				687BAD162926D756006F6079 /* NevusAnalyzer.mlmodel */,
 				687BACD42923C9C3006F6079 /* ContentView.swift */,
 				687BACD62923C9C4006F6079 /* Assets.xcassets */,
 				687BACD82923C9C4006F6079 /* Preview Content */,
@@ -125,6 +154,32 @@
 				687BACEF2923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift */,
 			);
 			path = SkinVisionTUITests;
+			sourceTree = "<group>";
+		};
+		687BACFC2923C9D2006F6079 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				687BAD0A29243EC1006F6079 /* Functions.swift */,
+				687BAD1029252B0F006F6079 /* ImagePicker.swift */,
+				687BAD182927CEFD006F6079 /* UIImage+Extension.swift */,
+				68A9CF83292C48A000915DB2 /* ViewController.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		687BACFD2923C9E0006F6079 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				687BAD002923DD34006F6079 /* OptionsView.swift */,
+				687BAD022923DD51006F6079 /* ProfileView.swift */,
+				687BAD042923FC3A006F6079 /* BodyView.swift */,
+				687BAD062923FC4E006F6079 /* DetectorView.swift */,
+				687BAD0C292517D0006F6079 /* UVView.swift */,
+				687BAD0E292517E4006F6079 /* ChatView.swift */,
+				687BAD12292547D9006F6079 /* ResultView.swift */,
+				68A9CF81292BD7D600915DB2 /* TryView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,8 +312,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68A9CF84292C48A000915DB2 /* ViewController.swift in Sources */,
+				687BAD192927CEFD006F6079 /* UIImage+Extension.swift in Sources */,
 				687BACD52923C9C3006F6079 /* ContentView.swift in Sources */,
+				68A9CF82292BD7D600915DB2 /* TryView.swift in Sources */,
+				687BAD032923DD51006F6079 /* ProfileView.swift in Sources */,
 				687BACD32923C9C3006F6079 /* SkinVisionTApp.swift in Sources */,
+				687BAD0B29243EC1006F6079 /* Functions.swift in Sources */,
+				687BAD172926D756006F6079 /* NevusAnalyzer.mlmodel in Sources */,
+				687BAD0F292517E4006F6079 /* ChatView.swift in Sources */,
+				687BAD052923FC3A006F6079 /* BodyView.swift in Sources */,
+				687BAD0D292517D0006F6079 /* UVView.swift in Sources */,
+				687BAD13292547D9006F6079 /* ResultView.swift in Sources */,
+				687BAD1129252B0F006F6079 /* ImagePicker.swift in Sources */,
+				687BAD012923DD34006F6079 /* OptionsView.swift in Sources */,
+				687BAD072923FC4E006F6079 /* DetectorView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -420,11 +488,12 @@
 				DEVELOPMENT_TEAM = T3577S6M37;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need the caera permittion";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -449,11 +518,12 @@
 				DEVELOPMENT_TEAM = T3577S6M37;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need the caera permittion";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
