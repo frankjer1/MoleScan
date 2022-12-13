@@ -261,7 +261,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 687BACCA2923C9C3006F6079 /* Build configuration list for PBXProject "SkinVisionT" */;
+			buildConfigurationList = 687BACCA2923C9C3006F6079 /* Build configuration list for PBXProject "MoleScan" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -616,7 +616,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		687BACCA2923C9C3006F6079 /* Build configuration list for PBXProject "SkinVisionT" */ = {
+		687BACCA2923C9C3006F6079 /* Build configuration list for PBXProject "MoleScan" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				687BACF12923C9C4006F6079 /* Debug */,
