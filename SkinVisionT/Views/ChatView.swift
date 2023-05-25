@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ChatView: View {
     var body: some View {
+        //Not implemented yet
         Text("You will find your recommendation here when you need to do further checks")
             //.foregroundColor(.blue)
             .font(.title3.bold())

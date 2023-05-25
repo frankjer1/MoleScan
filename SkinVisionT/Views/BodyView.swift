@@ -9,8 +9,8 @@ import SwiftUI
 
 struct BodyView: View {
     var body: some View {
-        Image(systemName: "figure.arms.open")
-            .scaleEffect(25)
+        //Here will be implemented a view with all the analyzed moles, complete with photo, position, date and status.
+        Text("List of moles") //just a placeholder
     }
 }
 

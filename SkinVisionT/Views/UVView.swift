@@ -6,7 +6,7 @@
 //
 
 import SwiftUI
-
+//This is just a placeholder: the idea is that in future Could be implemented an API call to a dataset with all the UV levels related with the localisation
 struct UVView: View {
     var body: some View {
         VStack(alignment: .center, spacing: 100){

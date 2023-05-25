@@ -11,7 +11,7 @@ struct TryView: View {
     var body: some View {
         VStack(spacing:50){
             Spacer()
-                Image("prova")
+                Image("XXX")
                         .resizable()
                         .frame(width: 300, height: 400, alignment: .topLeading)
                         .border(.black)

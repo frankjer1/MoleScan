@@ -15,7 +15,6 @@
 		687BACEE2923C9C4006F6079 /* SkinVisionTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACED2923C9C4006F6079 /* SkinVisionTUITests.swift */; };
 		687BACF02923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACEF2923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift */; };
 		687BAD012923DD34006F6079 /* OptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD002923DD34006F6079 /* OptionsView.swift */; };
-		687BAD032923DD51006F6079 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD022923DD51006F6079 /* ProfileView.swift */; };
 		687BAD052923FC3A006F6079 /* BodyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD042923FC3A006F6079 /* BodyView.swift */; };
 		687BAD072923FC4E006F6079 /* DetectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD062923FC4E006F6079 /* DetectorView.swift */; };
 		687BAD0B29243EC1006F6079 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD0A29243EC1006F6079 /* Functions.swift */; };
@@ -26,7 +25,6 @@
 		687BAD172926D756006F6079 /* NevusAnalyzer.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD162926D756006F6079 /* NevusAnalyzer.mlmodel */; };
 		687BAD192927CEFD006F6079 /* UIImage+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD182927CEFD006F6079 /* UIImage+Extension.swift */; };
 		68A9CF82292BD7D600915DB2 /* TryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A9CF81292BD7D600915DB2 /* TryView.swift */; };
-		68A9CF84292C48A000915DB2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68A9CF83292C48A000915DB2 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +56,6 @@
 		687BACED2923C9C4006F6079 /* SkinVisionTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkinVisionTUITests.swift; sourceTree = "<group>"; };
 		687BACEF2923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkinVisionTUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		687BAD002923DD34006F6079 /* OptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsView.swift; sourceTree = "<group>"; };
-		687BAD022923DD51006F6079 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		687BAD042923FC3A006F6079 /* BodyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyView.swift; sourceTree = "<group>"; };
 		687BAD062923FC4E006F6079 /* DetectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectorView.swift; sourceTree = "<group>"; };
 		687BAD0A29243EC1006F6079 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
@@ -69,7 +66,6 @@
 		687BAD162926D756006F6079 /* NevusAnalyzer.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = NevusAnalyzer.mlmodel; sourceTree = "<group>"; };
 		687BAD182927CEFD006F6079 /* UIImage+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIImage+Extension.swift"; sourceTree = "<group>"; };
 		68A9CF81292BD7D600915DB2 /* TryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TryView.swift; sourceTree = "<group>"; };
-		68A9CF83292C48A000915DB2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,7 +158,6 @@
 				687BAD0A29243EC1006F6079 /* Functions.swift */,
 				687BAD1029252B0F006F6079 /* ImagePicker.swift */,
 				687BAD182927CEFD006F6079 /* UIImage+Extension.swift */,
-				68A9CF83292C48A000915DB2 /* ViewController.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -171,7 +166,6 @@
 			isa = PBXGroup;
 			children = (
 				687BAD002923DD34006F6079 /* OptionsView.swift */,
-				687BAD022923DD51006F6079 /* ProfileView.swift */,
 				687BAD042923FC3A006F6079 /* BodyView.swift */,
 				687BAD062923FC4E006F6079 /* DetectorView.swift */,
 				687BAD0C292517D0006F6079 /* UVView.swift */,
@@ -312,11 +306,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				68A9CF84292C48A000915DB2 /* ViewController.swift in Sources */,
 				687BAD192927CEFD006F6079 /* UIImage+Extension.swift in Sources */,
 				687BACD52923C9C3006F6079 /* ContentView.swift in Sources */,
 				68A9CF82292BD7D600915DB2 /* TryView.swift in Sources */,
-				687BAD032923DD51006F6079 /* ProfileView.swift in Sources */,
 				687BACD32923C9C3006F6079 /* SkinVisionTApp.swift in Sources */,
 				687BAD0B29243EC1006F6079 /* Functions.swift in Sources */,
 				687BAD172926D756006F6079 /* NevusAnalyzer.mlmodel in Sources */,

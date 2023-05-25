@@ -46,7 +46,8 @@ func nevusAnalyzer(image: UIImage)->String {
         
         
     }
-    catch{
+    catch let error{
+        print("Error: \(error.localizedDescription)")
         //alertTitle = "Error"
        // alertMessage = "Sorry, there was a problem analizyng your nevus."
     }

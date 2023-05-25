@@ -27,16 +27,13 @@ struct ContentView: View {
                 }
             
             .padding()
-            .navigationTitle("SkinVision")
+            .navigationTitle("MoleScan")
             .toolbar{
-                ToolbarItem(
-                    placement: .navigation, content: {NavigationLink(destination: ProfileView(), label: {Image(systemName: "person.circle")
-                    })})
                 ToolbarItem(
                     placement: .automatic, content: {NavigationLink(destination: OptionsView(), label: {Image(systemName: "gear")})})
                 
             }
-            .navigationBarTitleDisplayMode(.inline)
+            .navigationBarTitleDisplayMode(.automatic)
         }
     }
 }
