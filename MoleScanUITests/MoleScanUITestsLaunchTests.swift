@@ -1,13 +1,8 @@
-//
-//  SkinVisionTUITestsLaunchTests.swift
-//  SkinVisionTUITests
-//
-//  Created by Francesco Bernaudo on 15/11/22.
-//
+
 
 import XCTest
 
-final class SkinVisionTUITestsLaunchTests: XCTestCase {
+final class MoleScanTestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

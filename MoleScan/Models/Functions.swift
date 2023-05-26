@@ -1,6 +1,6 @@
 //
 //  Functions.swift
-//  SkinVisionT
+//  MoleScan
 //
 //  Created by Francesco Bernaudo on 15/11/22.
 //

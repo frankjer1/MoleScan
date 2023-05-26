@@ -1,13 +1,8 @@
-//
-//  SkinVisionTUITests.swift
-//  SkinVisionTUITests
-//
-//  Created by Francesco Bernaudo on 15/11/22.
-//
+
 
 import XCTest
 
-final class SkinVisionTUITests: XCTestCase {
+final class MoleScanUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

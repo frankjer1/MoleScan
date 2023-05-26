@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		687BACD32923C9C3006F6079 /* SkinVisionTApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACD22923C9C3006F6079 /* SkinVisionTApp.swift */; };
+		687BACD32923C9C3006F6079 /* MoleScanApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACD22923C9C3006F6079 /* MoleScanApp.swift */; };
 		687BACD52923C9C3006F6079 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACD42923C9C3006F6079 /* ContentView.swift */; };
 		687BACD72923C9C4006F6079 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 687BACD62923C9C4006F6079 /* Assets.xcassets */; };
 		687BACDA2923C9C4006F6079 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 687BACD92923C9C4006F6079 /* Preview Assets.xcassets */; };
-		687BACE42923C9C4006F6079 /* SkinVisionTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACE32923C9C4006F6079 /* SkinVisionTTests.swift */; };
-		687BACEE2923C9C4006F6079 /* SkinVisionTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACED2923C9C4006F6079 /* SkinVisionTUITests.swift */; };
-		687BACF02923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACEF2923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift */; };
+		687BACE42923C9C4006F6079 /* MoleScanTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACE32923C9C4006F6079 /* MoleScanTests.swift */; };
+		687BACEE2923C9C4006F6079 /* MoleScanUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACED2923C9C4006F6079 /* MoleScanUITests.swift */; };
+		687BACF02923C9C4006F6079 /* MoleScanUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BACEF2923C9C4006F6079 /* MoleScanUITestsLaunchTests.swift */; };
 		687BAD012923DD34006F6079 /* OptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD002923DD34006F6079 /* OptionsView.swift */; };
 		687BAD052923FC3A006F6079 /* BodyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD042923FC3A006F6079 /* BodyView.swift */; };
 		687BAD072923FC4E006F6079 /* DetectorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 687BAD062923FC4E006F6079 /* DetectorView.swift */; };
@@ -45,16 +45,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		687BACCF2923C9C3006F6079 /* SkinVisionT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SkinVisionT.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		687BACD22923C9C3006F6079 /* SkinVisionTApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkinVisionTApp.swift; sourceTree = "<group>"; };
+		687BACCF2923C9C3006F6079 /* MoleScan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MoleScan.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		687BACD22923C9C3006F6079 /* MoleScanApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoleScanApp.swift; sourceTree = "<group>"; };
 		687BACD42923C9C3006F6079 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		687BACD62923C9C4006F6079 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		687BACD92923C9C4006F6079 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		687BACDF2923C9C4006F6079 /* SkinVisionTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SkinVisionTTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		687BACE32923C9C4006F6079 /* SkinVisionTTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkinVisionTTests.swift; sourceTree = "<group>"; };
+		687BACE32923C9C4006F6079 /* MoleScanTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoleScanTests.swift; sourceTree = "<group>"; };
 		687BACE92923C9C4006F6079 /* SkinVisionTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SkinVisionTUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		687BACED2923C9C4006F6079 /* SkinVisionTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkinVisionTUITests.swift; sourceTree = "<group>"; };
-		687BACEF2923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkinVisionTUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		687BACED2923C9C4006F6079 /* MoleScanUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoleScanUITests.swift; sourceTree = "<group>"; };
+		687BACEF2923C9C4006F6079 /* MoleScanUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoleScanUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		687BAD002923DD34006F6079 /* OptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsView.swift; sourceTree = "<group>"; };
 		687BAD042923FC3A006F6079 /* BodyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyView.swift; sourceTree = "<group>"; };
 		687BAD062923FC4E006F6079 /* DetectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetectorView.swift; sourceTree = "<group>"; };
@@ -96,9 +96,9 @@
 		687BACC62923C9C3006F6079 = {
 			isa = PBXGroup;
 			children = (
-				687BACD12923C9C3006F6079 /* SkinVisionT */,
-				687BACE22923C9C4006F6079 /* SkinVisionTTests */,
-				687BACEC2923C9C4006F6079 /* SkinVisionTUITests */,
+				687BACD12923C9C3006F6079 /* MoleScan */,
+				687BACE22923C9C4006F6079 /* MoleScanTests */,
+				687BACEC2923C9C4006F6079 /* MoleScanUITests */,
 				687BACD02923C9C3006F6079 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -106,25 +106,25 @@
 		687BACD02923C9C3006F6079 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				687BACCF2923C9C3006F6079 /* SkinVisionT.app */,
+				687BACCF2923C9C3006F6079 /* MoleScan.app */,
 				687BACDF2923C9C4006F6079 /* SkinVisionTTests.xctest */,
 				687BACE92923C9C4006F6079 /* SkinVisionTUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		687BACD12923C9C3006F6079 /* SkinVisionT */ = {
+		687BACD12923C9C3006F6079 /* MoleScan */ = {
 			isa = PBXGroup;
 			children = (
 				687BACFD2923C9E0006F6079 /* Views */,
 				687BACFC2923C9D2006F6079 /* Models */,
-				687BACD22923C9C3006F6079 /* SkinVisionTApp.swift */,
+				687BACD22923C9C3006F6079 /* MoleScanApp.swift */,
 				687BAD162926D756006F6079 /* NevusAnalyzer.mlmodel */,
 				687BACD42923C9C3006F6079 /* ContentView.swift */,
 				687BACD62923C9C4006F6079 /* Assets.xcassets */,
 				687BACD82923C9C4006F6079 /* Preview Content */,
 			);
-			path = SkinVisionT;
+			path = MoleScan;
 			sourceTree = "<group>";
 		};
 		687BACD82923C9C4006F6079 /* Preview Content */ = {
@@ -135,21 +135,21 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		687BACE22923C9C4006F6079 /* SkinVisionTTests */ = {
+		687BACE22923C9C4006F6079 /* MoleScanTests */ = {
 			isa = PBXGroup;
 			children = (
-				687BACE32923C9C4006F6079 /* SkinVisionTTests.swift */,
+				687BACE32923C9C4006F6079 /* MoleScanTests.swift */,
 			);
-			path = SkinVisionTTests;
+			path = MoleScanTests;
 			sourceTree = "<group>";
 		};
-		687BACEC2923C9C4006F6079 /* SkinVisionTUITests */ = {
+		687BACEC2923C9C4006F6079 /* MoleScanUITests */ = {
 			isa = PBXGroup;
 			children = (
-				687BACED2923C9C4006F6079 /* SkinVisionTUITests.swift */,
-				687BACEF2923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift */,
+				687BACED2923C9C4006F6079 /* MoleScanUITests.swift */,
+				687BACEF2923C9C4006F6079 /* MoleScanUITestsLaunchTests.swift */,
 			);
-			path = SkinVisionTUITests;
+			path = MoleScanUITests;
 			sourceTree = "<group>";
 		};
 		687BACFC2923C9D2006F6079 /* Models */ = {
@@ -193,7 +193,7 @@
 			);
 			name = SkinVisionT;
 			productName = SkinVisionT;
-			productReference = 687BACCF2923C9C3006F6079 /* SkinVisionT.app */;
+			productReference = 687BACCF2923C9C3006F6079 /* MoleScan.app */;
 			productType = "com.apple.product-type.application";
 		};
 		687BACDE2923C9C4006F6079 /* SkinVisionTTests */ = {
@@ -309,7 +309,7 @@
 				687BAD192927CEFD006F6079 /* UIImage+Extension.swift in Sources */,
 				687BACD52923C9C3006F6079 /* ContentView.swift in Sources */,
 				68A9CF82292BD7D600915DB2 /* TryView.swift in Sources */,
-				687BACD32923C9C3006F6079 /* SkinVisionTApp.swift in Sources */,
+				687BACD32923C9C3006F6079 /* MoleScanApp.swift in Sources */,
 				687BAD0B29243EC1006F6079 /* Functions.swift in Sources */,
 				687BAD172926D756006F6079 /* NevusAnalyzer.mlmodel in Sources */,
 				687BAD0F292517E4006F6079 /* ChatView.swift in Sources */,
@@ -326,7 +326,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				687BACE42923C9C4006F6079 /* SkinVisionTTests.swift in Sources */,
+				687BACE42923C9C4006F6079 /* MoleScanTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -334,8 +334,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				687BACF02923C9C4006F6079 /* SkinVisionTUITestsLaunchTests.swift in Sources */,
-				687BACEE2923C9C4006F6079 /* SkinVisionTUITests.swift in Sources */,
+				687BACF02923C9C4006F6079 /* MoleScanUITestsLaunchTests.swift in Sources */,
+				687BACEE2923C9C4006F6079 /* MoleScanUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -476,7 +476,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SkinVisionT/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MoleScan/Preview Content\"";
 				DEVELOPMENT_TEAM = T3577S6M37;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -491,8 +491,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.Frank.SkinVisionT;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Frank.MoleScan;
+				PRODUCT_NAME = MoleScan;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -506,7 +506,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"SkinVisionT/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"MoleScan/Preview Content\"";
 				DEVELOPMENT_TEAM = T3577S6M37;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -521,8 +521,8 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.Frank.SkinVisionT;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Frank.MoleScan;
+				PRODUCT_NAME = MoleScan;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

@@ -1,6 +1,6 @@
 //
 //  ImagePicker.swift
-//  SkinVisionT
+//  MoleScan
 //
 //  Created by Francesco Bernaudo on 16/11/22.
 //

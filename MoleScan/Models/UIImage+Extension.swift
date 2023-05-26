@@ -1,7 +1,4 @@
-//  UIImage+Extension.swift
-//
-//  Created by Moritz Philip Recke for Create with Swift on 10 February 2021.
-//
+
 
 import Foundation
 import UIKit
