@@ -1,4 +1,4 @@
-# MoleSacn
+# MoleScan
 
 [![Github All Releases](https://img.shields.io/github/downloads/fbernaudo22/IMGQuizBuilder/total.svg)]()
 
@@ -7,5 +7,5 @@ This is still a project under construction and actually don't give the user a co
 
 ## How it works
 
-The project, throught a Machine Learning model should understand if a mole is PROBABLY benign or malign.
+The project, throught a Machine Learning model should understand if a mole is PROBABLY benign or malign. the model works on a photom of a mole made by the user.
 ATTENTION: This model actually doesn't work, it has been built for training purposes, so the model actually DOESN'T WORK.
